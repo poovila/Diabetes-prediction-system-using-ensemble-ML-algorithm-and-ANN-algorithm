@@ -1,1 +1,4 @@
 # Diabetes-prediction-system-using-ensemble-ML-algorithm-and-ANN-algorithm
+The objective of the project is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measures of the patient which is included in the dataset. As the saying “Prevention is better than cure” goes, if we are able to predict the possibility we can easily come over it. This is the main motto for construction of this model. With the basic diagnostic measures of women like BMI, Blood pressure, number of pregnancies they had, skin thickness etc., whether the women has diabetes or whether she has the possibility of having diabetes are predicted.
+Keywords – Diabetes Mellitus, Machine Learning, Soft Voting Classifier, KNN, RF, DT, Logistic Regression, AdaBoosting,ANN.
+Video link: - https://youtu.be/QkPsTm-_-h0
